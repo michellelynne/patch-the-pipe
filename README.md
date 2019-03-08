@@ -9,6 +9,8 @@ If you’re thinking of leaving...
 
 What do you need? A mentor? Code reviews? A new job? Strategies to ask for a raise? Information about what it’s like at other companies? Career path ideas? First step is to look through the repo, maybe what you need is already answered. If it hasn’t or it’s a more specific vs general question (ie, can someone look a my resume), submit an issue! One of our volunteers will get back to you ASAP.
 
-If you want help….
+If you want to help....
 
 Go through the issues. Answer a question! If you feel like the answer could help others, submit a pull request to add it to our knowledge base.
+
+[Here's how to submit a pull request.] <https://mattstauffer.com/blog/how-to-contribute-to-an-open-source-github-project-using-your-own-fork/>
