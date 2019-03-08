@@ -13,4 +13,4 @@ If you want to help....
 
 Go through the issues. Answer a question! If you feel like the answer could help others, submit a pull request to add it to our knowledge base.
 
-[Here's how to submit a pull request.]: <https://mattstauffer.com/blog/how-to-contribute-to-an-open-source-github-project-using-your-own-fork/>
+[Here's how to submit a pull request.](https://mattstauffer.com/blog/how-to-contribute-to-an-open-source-github-project-using-your-own-fork/)
