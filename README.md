@@ -11,6 +11,11 @@ What do you need? A mentor? Code reviews? A new job? Strategies to ask for a rai
 
 If you want to help....
 
-Go through the issues. Answer a question! If you feel like the answer could help others, submit a pull request to add it to our knowledge base.
+Go through the issues. Answer a question! If you feel like the answer could help others, submit a pull request to add it to our knowledge base. 
 
 [Here's how to submit a pull request.](https://mattstauffer.com/blog/how-to-contribute-to-an-open-source-github-project-using-your-own-fork/)
+
+[Code of Conduct](code_of_conduct.md)
+
+Contact Us
+Feedback is extremely welcome! Please submit a pull request or contact the team directly at patchthepipe at mbrenner24.33mail.com.  
