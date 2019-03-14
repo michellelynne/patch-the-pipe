@@ -17,5 +17,6 @@ Go through the issues. Answer a question! If you feel like the answer could help
 
 [Code of Conduct](code_of_conduct.md)
 
-Contact Us
+[Contact Us](mailto:patchthepipe@mbrenner24.33mail.com)
+
 Feedback is extremely welcome! Please submit a pull request or contact the team directly at patchthepipe at mbrenner24.33mail.com.  
