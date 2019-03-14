@@ -15,7 +15,7 @@ Go through the issues. Answer a question! If you feel like the answer could help
 
 [Here's how to submit a pull request.](https://mattstauffer.com/blog/how-to-contribute-to-an-open-source-github-project-using-your-own-fork/)
 
-[Code of Conduct](code_of_conduct.md)
+[Code of Conduct](code-of-conduct.md)
 
 [Contact Us](mailto:patchthepipe@mbrenner24.33mail.com)
 
