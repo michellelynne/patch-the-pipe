@@ -1,3 +1,8 @@
+Template:
+
+- ### Name
+  - [Direct Signup](https://www.google.com/)
+  - Description
 
 - ###  Better Allies
   - [Signup](https://betterallies.us19.list-manage.com/subscribe?u=cc808df089bf312fc1a37916d&id=575137cdc6)
