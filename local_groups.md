@@ -1,3 +1,7 @@
+Template:
 
-Location?
-Who should join? 
+- ### Name
+  - Location
+  - [Link](https://www.builtbygirls.com/)
+  - Who should join?
+  - Type of events:
