@@ -1,3 +1,10 @@
+Template:
+
+- ### Name
+  - [More Info](https://www.google.com/)
+  - [Direct Signup](https://www.google.com/)
+  - Who's it for? 
+
 - ### #BUILYBYGIRLS
   - Check out the org [here](https://www.builtbygirls.com/)
   - Who's it for? High school and college girls who are looking for mentors. On the flip side, if you're an industry professional looking to give back to young girls and mentor them, this is a great way to impact the lives of the future generation.
