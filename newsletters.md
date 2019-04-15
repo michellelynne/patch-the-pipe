@@ -7,6 +7,10 @@ Template:
 - ###  Better Allies
   - [Signup](https://betterallies.us19.list-manage.com/subscribe?u=cc808df089bf312fc1a37916d&id=575137cdc6)
   - Better allyship starts here. Each week, we share 5 simple actions to create a more inclusive workplace.
+
+  - ###  Mostly-Free Tech Events
+  - [Signup](https://tinyletter.com/lizziepika)
+  - Monthly newsletter of tech events (meetups, conferences, hackathons, and more) in the Bay Area and NYC, along with open CFPs, cool GitHub repos, and jobs.
   
 - ###  Women Who Code
   - [Signup](https://us7.campaign-archive.com/home/?u=e75be710ba1a2eb0df9d82ca4&id=73a7096e5d)
